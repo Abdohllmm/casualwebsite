@@ -8,7 +8,7 @@ import product4 from '../assets/products/product4.png'
 import product5 from '../assets/products/product5.png'
 import product6 from '../assets/products/product6.png'
 
-export const WHATSAPP_NUMBER = '212600000000' // TODO: remplacer par le vrai numéro
+export const WHATSAPP_NUMBER = '212662497179'
 export const INSTAGRAM_HANDLE = '@casual__2mars'
 export const INSTAGRAM_URL = 'https://instagram.com/casual__2mars'
 

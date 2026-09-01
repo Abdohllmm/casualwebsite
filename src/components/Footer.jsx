@@ -10,7 +10,7 @@ import {
 
 export default function Footer() {
   const year = new Date().getFullYear()
-  const formattedNumber = `+${WHATSAPP_NUMBER.slice(0, 3)} ${WHATSAPP_NUMBER.slice(3, 4)} ${WHATSAPP_NUMBER.slice(4, 6)} ${WHATSAPP_NUMBER.slice(6, 8)} ${WHATSAPP_NUMBER.slice(8, 10)} ${WHATSAPP_NUMBER.slice(10)}`
+  const formattedNumber = `+${WHATSAPP_NUMBER.slice(0, 3)} ${WHATSAPP_NUMBER.slice(3, 6)}-${WHATSAPP_NUMBER.slice(6)}`
 
   return (
     <footer id="contact" className="bg-zinc-950 border-t border-gold/15 pt-16 pb-8 px-6">
